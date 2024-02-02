@@ -8,6 +8,10 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.11"
 django = "^5.0.1"
+llama-index = "^0.9.41"
+python-dotenv = "^1.0.1"
+setuptools = "^69.0.3"
+pypdf = "^4.0.1"
 
 
 [build-system]
